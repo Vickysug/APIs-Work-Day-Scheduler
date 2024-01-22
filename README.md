@@ -40,3 +40,7 @@ The following animation demonstrates the application functionality:
 ![Alt text](image.png)
 
 https://vickysug.github.io/APIs-Work-Day-Scheduler/
+
+## Acknowledgments
+
+Special thanks to Michael Baxter (fellow student and mentor) for guidance, support and feedback throughout the development process of this project as well as allowing me use some parts of his code in order for me to research its purpose and comment. 
